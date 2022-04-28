@@ -1,0 +1,30 @@
+*{
+	width:100%;
+	height:100%;
+	background-color:green;
+}
+
+.wreper{
+	width:1200px;
+	height:auto;
+	float:left;
+	overflow:hidden;
+}
+.header{
+	padding:60px;
+	text-align:center;
+	background:#ffff;
+	color:#000;
+	font-size:30px;
+}
+.logo{
+	width:150px;
+	height:110px;
+	margin:0px;
+	padding:20px;
+	float:left;
+}
+.logo img {
+	width: 90%;
+	height: 90%;
+}
